@@ -1,0 +1,6 @@
+{
+  "name": "MartFlow POS",
+  "description": "Modern Retail Management & Point of Sale System with full Cashier, Catalog, Inventory, and Loyalty Program capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
